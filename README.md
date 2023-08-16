@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 # Paragon z warzywniaka
+
